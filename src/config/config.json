@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "title": "Boo Space Blog",
+    "base_url": "https://boospace.blog",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -19,17 +19,17 @@
   "metadata": {
     "meta_author": "Themefisher",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "Discover valuable tips, software insights, and creative ideas for optimizing work and life, shared by Tôn Thất Trọng (Boo)"
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Welcome to Boo Space"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
+    "address": "",
+    "email": "boostore1823@gmail.com",
+    "phone": ""
   }
 }
